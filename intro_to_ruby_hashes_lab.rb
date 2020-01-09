@@ -1,5 +1,5 @@
 def base_hash
-  countries_and_capitals_of_the_world = {}
+  countries_and_capitals_of_the_world = {:north_america => {}}
 end
 
 def monopoly_with_second_tier
